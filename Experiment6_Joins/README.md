@@ -462,4 +462,4 @@ WHERE o.ord_date BETWEEN '2012-07-01' AND '2012-07-30';
 
 
 ## RESULT
-Thus, the SQL queries to implement different types of joins have been executed successfully.
+Thus, the SQL queries to implement different types of joins have been executed successfully
